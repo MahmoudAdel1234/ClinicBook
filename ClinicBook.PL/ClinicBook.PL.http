@@ -1,0 +1,6 @@
+@ClinicBook.PL_HostAddress = http://localhost:5051
+
+GET {{ClinicBook.PL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
