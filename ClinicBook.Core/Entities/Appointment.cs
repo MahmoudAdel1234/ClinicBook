@@ -2,7 +2,7 @@
 {
     public class Appointment
     {
-
+        //hello
         public Guid Id { get; set; }
 
         public AppointmentStatus Status { get; set; }
